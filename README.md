@@ -1,26 +1,29 @@
-# user@infrastructure:~/
-
-### ⌬ Profile
-│
-├── **Role:** Linux System Administrator ➜ DevOps
-├── **Focus:** Infrastructure as Code (IaC)
-└── **Research:** Zero Trust Network Access (ZTNA)
-
-### ⚙︎ Skills & Tools
-│
-├── **Provisioning**
-│   ├── Terraform
-│   └── Ansible
-│
-├── **Core Systems**
-│   ├── Linux Kernel & Networking
-│   ├── WireGuard
-│   └── Bash & Python
-│
-└── **Zero Trust Project**
-    ├── Objective: Secure Remote Access
-    ├── Method: Identity-Aware Proxy
-    └── State: Active Development
+#!/usr/bin/env sysadmin-to-devops
+# Transforming manual operations into resilient code.
 
 ---
-[ ⌘ GitHub ](https://github.com/yourusername)  [ ⌥ LinkedIn ](https://linkedin.com/in/yourprofile)
+
+### ⌖ Areas of Interest
+**∞ Infrastructure as Code (IaC)**
+Passionate about shifting from manual administration to automated, version-controlled infrastructure. I enjoy exploring how to treat operations with the same rigor as software development.
+
+**⚷ Zero Trust Architecture**
+Deeply interested in modern security models. I am actively researching ZTNA implementations (using WireGuard & eBPF) to create secure, verified access layers.
+
+**⚙︎ DevOps Culture**
+Focused on the transition from traditional SysAdmin roles to agile engineering, aiming to build systems that are secure by default and automated by design.
+
+### ⌗ Tech Stack
+**⚡ Automation & Operations**
+* **↺ CI/CD:** GitHub Actions / GitLab CI
+* **⚙︎ Config Management:** Ansible
+* **☁ Provisioning:** Terraform
+* **⎈ Orchestration:** Kubernetes / Docker
+
+### ⌗ Toolbox
+**⌥ Languages:** `Python` `Bash` `Go` (Learning)
+**⌘ Systems:** `RHEL` `Debian` `Alpine`
+**⌬ Network:** `TCP/IP` `DNS` `Firewalls`
+
+---
+[✉ Email](mailto:mohammadi.mahdi.mail@gmail.com) — [∞ LinkedIn](https://www.linkedin.com/in/mahdi-mohammdi-72b72049/)
