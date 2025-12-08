@@ -1,28 +1,26 @@
 # [Your Name]
 
-> **SysAdmin & DevOps Engineer**
-> *Building Zero Trust Architectures & Automating Reliability.*
+I act as a bridge between **System Administration** and **DevOps**.
+Currently researching **Zero Trust** security models to redefine remote access.
 
 ---
 
-### ⌗ Current Mission
-**⚷ Zero Trust Network Access (ZTNA)**
-I am architecting a secure remote access infrastructure to replace traditional VPNs.
-* **⏣ Core:** WireGuard + eBPF for data plane efficiency.
-* **⚔ Strategy:** Identity-based micro-segmentation.
-* **⌬ Goal:** Seamless, verified access for internal networks.
+### 🛠 The stack
+![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-black?style=flat-square&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-black?style=flat-square&logo=ansible&logoColor=white)
 
-### ⌗ Tech Stack
-**∞ Infrastructure as Code**
-Moving from manual sysadmin tasks to reproducible code.
-* **⚙︎ Config:** Ansible
-* **☁ Provisioning:** Terraform
-* **⎈ Orchestration:** Kubernetes / Docker Swarm
-
-### ⌗ Toolbox
-**⌥ Languages:** `Python` `Bash` `Go`
-**⌘ Systems:** `RHEL` `Debian` `Alpine`
-**⚡ Network:** `TCP/IP` `DNS` `Firewalls`
+![Docker](https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker&logoColor=white)
+![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash_Scripting-black?style=flat-square&logo=gnu-bash&logoColor=white)
 
 ---
-[✉ Email](mailto:your.email@example.com) — [∞ LinkedIn](https://linkedin.com/in/yourprofile)
+
+### 🔭 Research: Zero Trust Infrastructure
+Implementing a **ZTNA** solution focused on least-privilege principles.
+* **Challenge:** Implementing granular access control without hurting UX.
+* **Approach:** Leveraging identity providers and lightweight tunneling.
+* **Status:** Prototyping and Security Auditing.
+
+---
+*"Trust nothing, verify everything."*
