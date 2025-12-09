@@ -21,7 +21,7 @@ Focused on the transition from traditional SysAdmin roles to agile engineering, 
 * **⎈ Orchestration:** Kubernetes / Docker
 
 ### ⌗ Toolbox
-**⌥ Languages:** `Python` `Bash`(Learning)
+**⌥ Languages:** `Python` `Bash` (Learning)
 **⌘ Systems:** `RHEL` `Debian` `Alpine`
 **⌬ Network:** `TCP/IP` `DNS` `Firewalls`
 
